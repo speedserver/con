@@ -1413,30 +1413,3 @@ body {
 .cid-qTB1Grhx7P .card-title {
   color: #154b2a;
 }
-.cid-qTBmaJNlXr {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-qTBmaJNlXr .title {
-  margin-bottom: 2rem;
-}
-.cid-qTBmaJNlXr .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qTBmaJNlXr a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-qTBmaJNlXr a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-qTBmaJNlXr .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-qTBmaJNlXr .input-group-btn {
-  display: block;
-  text-align: center;
-}
